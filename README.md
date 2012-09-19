@@ -5,7 +5,7 @@ Code for reproducing the results from "An experimental test of the response of m
 
 The code and data in this repository allow for the analyses and figures in the paper to be fully replicated using a subset of the published Portal dataset which includes annual plant data from 1995-2009.
 
-Requirements: R 2.x and the following packages: Biodiversity R, car, CCA, gplots, graphics, languageR, lme4, nlme, plotrix, poilog, vegan, VGAM and the file containing functions specific to this code, PortalPlants_fxns.R. 
+Requirements: R 2.x and the following packages: Biodiversity R, car, CCA, equivalence, gplots, graphics, languageR, lme4, nlme, plotrix, poilog, vegan, VGAM and the file containing functions specific to this code, PortalPlants_fxns.R. 
 
 The analyses can then be replicated by changing the working directory at the top of the file PortalPlants_ms12-0370R2.R to the location on your computer where you have stored the .R and .csv files.
 
