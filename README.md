@@ -1,7 +1,7 @@
 portal-experimental-macroeco
 ============================
 
-Code for reproducing the results from "An experimental test of the response of macroecological patterns to altered species interactions" by Sarah R. Supp, Xiao Xiao, S. K. Morgan Ernest, and Ethan P. White 2013 published in Ecology, doi: 10.1890/12-0370.1
+Code for reproducing the results from "An experimental test of the response of macroecological patterns to altered species interactions" by Sarah R. Supp, Xiao Xiao, S. K. Morgan Ernest, and Ethan P. White 2013 published in Ecology, doi: 10.1890/12-0370.1 Code was written by Sarah R. Supp and Xiao Xiao.
 
 The code and data in this repository allow for the analyses and figures in the paper to be fully replicated using a subset of the published Portal dataset which includes annual plant data from 1995-2009.
 
