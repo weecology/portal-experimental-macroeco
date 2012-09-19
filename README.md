@@ -39,4 +39,5 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 Contact information
 ============================
 Sarah Supp's email: sarah@weecology.org and sarah.supp@usu.edu
+
 Sarah's website: http://weecology.org/people/sarahsupp/Sarah_Supp/
